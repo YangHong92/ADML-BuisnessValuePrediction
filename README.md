@@ -1,4 +1,4 @@
-# ADML-BuisnessValuePrediction
+# ADML-RedHat
 **Topic:** 'Predicting Red Hat Business Value'
 
 **Task:** In this task, we identify customers' business potential according to their characteristics and activities to help the company figure out what kinds of people they need to approach and the proper time and ways to approach.
