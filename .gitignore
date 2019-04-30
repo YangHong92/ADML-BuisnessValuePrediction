@@ -1,6 +1,6 @@
 .ipynb_checkpoints
 data/*.csv
-data/*.pkl
+data/*0.pkl
 .idea
 .vscode
 *.DS_Store
